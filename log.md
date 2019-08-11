@@ -13,3 +13,12 @@
 **Thoughts** It was a bit harder on the challenge "Manage Updates with Lifecycle Methods" because if forgot to use this.setState and modified the state directly instead
 
 **Points to work on** Listeners in javascript
+
+### Day 3: August 11, 2019
+
+**Today's Progress**: Worked on a new little project : A minecraft server management application
+
+The goal is to manage my local server (Start/Stop Server and minecraft service) directly from one interface. 
+I already did this in PHP but i wanted to do it in React/Node JS
+
+**Points to work on** My attention and patience
