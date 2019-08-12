@@ -22,3 +22,9 @@ The goal is to manage my local server (Start/Stop Server and minecraft service) 
 I already did this in PHP but i wanted to do it in React/Node JS
 
 **Points to work on** My attention and patience
+
+### Day 4: August 12, 2019
+
+**Today's Progress**: Finished React challenges on learn.freecodecamp.org
+
+**Points to work on** I will now try to learn Redux and work on my little project
