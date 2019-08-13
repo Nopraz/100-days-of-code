@@ -28,3 +28,13 @@ I already did this in PHP but i wanted to do it in React/Node JS
 **Today's Progress**: Finished React challenges on learn.freecodecamp.org
 
 **Points to work on** I will now try to learn Redux and work on my little project
+
+### Day 5: August 13, 2019
+
+**Today's Progress**: Advanced through my minecraft server manager project
+So far now i can see the players connected with their avatar and the possibility of downloading there skins (Thanks crafatar)
+I can also send rcon commands to my server and see the result in real time with the use of socket.io on the console output
+
+I also managed to push to production my react and node app on a raspberry pi but with some problem with CORS 
+
+**Points to work on** Deployment on my raspberry pi, design of my application in general (Bootstrap but no margin are used so everything is very compact)
