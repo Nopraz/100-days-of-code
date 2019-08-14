@@ -38,3 +38,10 @@ I can also send rcon commands to my server and see the result in real time with 
 I also managed to push to production my react and node app on a raspberry pi but with some problem with CORS 
 
 **Points to work on** Deployment on my raspberry pi, design of my application in general (Bootstrap but no margin are used so everything is very compact)
+
+### Day 6 : August 14, 2019
+
+**Today's Progress**: Day 6 : Advanced again through my minecraft server manager. Corrected a lot of bugs (Could not access the query protocol of my server) 
+I also separated the divs of each component in one col each with react-bootstrap.
+
+**Points to work on** Need to correct a bug where the players would not update on the application
