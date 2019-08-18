@@ -41,7 +41,22 @@ I also managed to push to production my react and node app on a raspberry pi but
 
 ### Day 6 : August 14, 2019
 
-**Today's Progress**: Day 6 : Advanced again through my minecraft server manager. Corrected a lot of bugs (Could not access the query protocol of my server) 
+**Today's Progress**: Advanced again through my minecraft server manager. Corrected a lot of bugs (Could not access the query protocol of my server) 
 I also separated the divs of each component in one col each with react-bootstrap.
 
 **Points to work on** Need to correct a bug where the players would not update on the application
+
+### Day 7 : August 15, 2019
+
+**Today's Progress**: Fixed some bugs on minecraft mgmt (Auto update fixed), css fixes
+
+### Day 8 : August 16, 2019
+
+**Today's Progress**: Added the level of the player on minecraft management
+
+**Points to work on** Add life and armor meter
+
+### Day 9 : August 18, 2019
+
+**Today's Progress**: Player Health and armor are now visible is my minecraft server mgmt app.
+I used the Dynmap plugin api which gives more info about the players connected in JSON format.
